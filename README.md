@@ -1,5 +1,12 @@
 # This is my first repository
 
-## This is my second push
+## Instructions
+Clone this repository
 
-Hello, everyone!
+Create a virtual environment.
+
+`python -m venv env`
+
+Install the packages.
+
+`pip install -r .\requirements.txt`
